@@ -70,7 +70,7 @@
 ## Projects 
 [![Hyperblog](https://github-readme-stats.vercel.app/api/pin/?username=cassylenoft&repo=hyperblog&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/cassylenoft/hyperblog)
 [![pip fork](https://github-readme-stats.vercel.app/api/pin/?username=cassylenoft&repo=curso-python-pip-fork&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/cassylenoft/curso-python-pip-fork)
-
+[![Proyect-Movie-Recomendations-System-](https://github-readme-stats.vercel.app/api/pin/?username=Josellut&repo=Proyect-Movie-Recomendations-System-&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Jossellu/Proyect-Movie-Recomendations-System-)
 
 
 <p align="left">
