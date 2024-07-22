@@ -69,7 +69,6 @@
 
 ## Projects 
 [![Hyperblog](https://github-readme-stats.vercel.app/api/pin/?username=cassylenoft&repo=hyperblog&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/cassylenoft/hyperblog)
-[![pip platzi](https://github-readme-stats.vercel.app/api/pin/?username=cassylenoft&repo=CURSO-PLATZI-DE-PIP&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/cassylenoft/CURSO-PLATZI-DE-PIP)
 [![pip fork](https://github-readme-stats.vercel.app/api/pin/?username=cassylenoft&repo=curso-python-pip-fork&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/cassylenoft/curso-python-pip-fork)
 
 
