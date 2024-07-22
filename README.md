@@ -37,7 +37,6 @@
  I have a solid foundation in statistics and probability, which enables me to carry out deep and precise analyzes<br></br>
  ❤️  Love to writing code and learning new features<br/><br/>
  📧 &emsp; Reach me anytime :point_right: cassylenoft@gmail.com<br/><br/>
- 💬 &emsp; Ask me about anything [here](https://github.com/alsiam/alsiam/issues)
 
 </p>
 
