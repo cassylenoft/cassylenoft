@@ -1,4 +1,4 @@
-<!--
+<!-- Title -->
 <h2 align="center">
   Welcome to CassyWorld!
   
@@ -30,11 +30,13 @@
  # About me
  
 <p>
- <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
+
   
- ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
- ❤️ &emsp; Love to writing code and learning new features<br/><br/>
- 📧 &emsp; Reach me anytime: cassylenoft@gmail.com<br/><br/>
+ ✌️ I am a passionate data science professional with experience in data analysis and model optimization.
+ My training in data sciencie and Chemical Engineering (graduate) allow me to generate valuable insights from complex data sets. 
+ I have a solid foundation in statistics and probability, which enables me to carry out deep and precise analyzes<br></br>
+ ❤️  Love to writing code and learning new features<br/><br/>
+ 📧 &emsp; Reach me anytime :point_right: cassylenoft@gmail.com<br/><br/>
  💬 &emsp; Ask me about anything [here](https://github.com/alsiam/alsiam/issues)
 
 </p>
@@ -59,9 +61,8 @@
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 <br/>
 
-## Projects -
+## Projects 
 [![Hyperblog](https://github-readme-stats.vercel.app/api/pin/?username=cassylenoft&repo=hyperblog&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/cassylenoft/hyperblog)
-[![urFolio](https://github-readme-stats.vercel.app/api/pin/?username=alsiam&repo=urfolio&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/alsiam/urfolio)
 [![pip platzi](https://github-readme-stats.vercel.app/api/pin/?username=cassylenoft&repo=CURSO-PLATZI-DE-PIP&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/cassylenoft/CURSO-PLATZI-DE-PIP)
 [![pip fork](https://github-readme-stats.vercel.app/api/pin/?username=cassylenoft&repo=curso-python-pip-fork&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/cassylenoft/curso-python-pip-fork)
 
@@ -76,22 +77,22 @@
 <br/>
 
 <p align="center">
-  <a href="https://github.com/alsiam">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=alsiam&theme=radical&border=7F3FBF&background=0D1117" alt="Saif's GitHub streak"/>
+  <a href="https://github.com/cassylenoft">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=alsiam&theme=radical&border=7F3FBF&background=0D1117" alt="cassylenoft GitHub streak"/>
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/alsiam">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alsiam&theme=radical" alt="Al Siam's GitHub Contribution"/>
+  <a href="https://github.com/cassylenoft">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cassylenoft&theme=radical" alt="cassylenofts GitHub Contribution"/>
   </a>
 </p>
 
 <a> 
-    <a href="https://github.com/alsiam"><img alt="Al Siam's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=alsiam&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+    <a href="https://github.com/cassylenoft"><img alt="cassylenoft Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=cassylenoft&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
   <a href="https://github.com/cassylenoft"><img alt="Cassylenoft Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=cassylenoft&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
   <br/>
 </a>
 
 
-![Al Siam's Graph](https://github-readme-activity-graph.vercel.app/graph?username=cassylenoft&custom_title=Al%20Siam's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+![cassylenoft Graph](https://github-readme-activity-graph.vercel.app/graph?username=cassylenoft&custom_title=Al%20Siam's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
